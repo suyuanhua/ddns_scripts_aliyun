@@ -6,4 +6,5 @@ ddns-scripts_aliyun
 安装后在DDNS服务提供商一栏多出一个 aliyun.com。
 
 /usr/lib/ddns/update_aliyun_com.sh
+
 chmod +x  /usr/lib/ddns/update_aliyun_com.sh
